@@ -1,1 +1,1 @@
-Learning django REST framework
+Learning django REST framework.
